@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @albaroca1503
-- 👀 I’m interested in AI, climate change, astrophysics, cinema and art
-- 🌱 I’m currently learning Generative AI
+👋 Hi, I’m @albaroca1503
+🤖 Passionate about AI, climate change, and astrophysics
+🎬🎨 Lover of cinema and art
+🌊 Currently diving into ocean science
 
 
 

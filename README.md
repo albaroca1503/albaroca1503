@@ -1,6 +1,9 @@
 👋 Hi, I’m @albaroca1503
+
 🤖 Passionate about AI, climate change, and astrophysics
+
 🎬🎨 Lover of cinema and art
+
 🌊 Currently diving into ocean science
 
 
